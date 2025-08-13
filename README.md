@@ -6,4 +6,7 @@ Este repositório contem uma **aplicação web** de cadastro e consulta de pesso
 ![tela](static/assets/agenda.png)
 
 # Tecnologias Utilizadas
-
+- **HTML:** Estruturação do Projeto
+- **CSS:** Estilização do Projeto
+- **Python:** Linguagem de Programação utilizada para desenvolver a aplicação
+- **Flask:** Microframework utilizado para inicializar o servidor web e gerenciar rotas 
