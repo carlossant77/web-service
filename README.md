@@ -17,4 +17,4 @@ Este repositório contem uma **aplicação web** de cadastro e consulta de pesso
 
 # Demonstração do Projeto
 Para acessar uma demonstração do projeto, [clique aqui.](https://web-service-santiago.onrender.com)
-**Observação:** Usuário de acesso para teste: **Nome:** petinelson **Senha:** 102030
+Usuário de acesso para teste: **Nome:** petinelson **Senha:** 102030
